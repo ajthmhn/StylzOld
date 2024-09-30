@@ -1,0 +1,498 @@
+
+/* Class = "UILabel"; text = "Sign out"; ObjectID = "0cH-Qd-sdI"; */
+"0cH-Qd-sdI.text" = "Sign out";
+
+/* Class = "UITabBarItem"; title = "Profile"; ObjectID = "0dR-ep-dwS"; */
+"0dR-ep-dwS.title" = "Profile";
+
+/* Class = "UITextField"; placeholder = "Occupation"; ObjectID = "1Ib-96-6wz"; */
+"1Ib-96-6wz.placeholder" = "Occupation";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "1fv-Z4-Gt2"; */
+"1fv-Z4-Gt2.text" = "Password";
+
+/* Class = "UIButton"; normalTitle = "Checkout"; ObjectID = "1po-i4-g4n"; */
+"1po-i4-g4n.normalTitle" = "Checkout";
+
+/* Class = "UILabel"; text = "SAR 155.99"; ObjectID = "1rn-ol-qt3"; */
+"1rn-ol-qt3.text" = "SAR 155.99";
+
+/* Class = "UILabel"; text = "Profile"; ObjectID = "1zI-79-WNM"; */
+"1zI-79-WNM.text" = "Profile";
+
+/* Class = "UILabel"; text = "Top 10 Salons"; ObjectID = "20Y-Lg-QUY"; */
+"20Y-Lg-QUY.text" = "Top 10 Salons";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "28z-52-Fmn"; */
+"28z-52-Fmn.placeholder" = "Name";
+
+/* Class = "UILabel"; text = "Omar Barbershop"; ObjectID = "2Pl-Gg-8ka"; */
+"2Pl-Gg-8ka.text" = "Omar Barbershop";
+
+/* Class = "UILabel"; text = "VAT 15%"; ObjectID = "2qC-ef-hFg"; */
+"2qC-ef-hFg.text" = "VAT 15%";
+
+/* Class = "UILabel"; text = "Seven Stars Salon"; ObjectID = "3Ih-fB-mUz"; */
+"3Ih-fB-mUz.text" = "Seven Stars Salon";
+
+/* Class = "UITabBarItem"; title = "Home"; ObjectID = "3MI-l1-8FH"; */
+"3MI-l1-8FH.title" = "Home";
+
+/* Class = "UILabel"; text = "Mobile"; ObjectID = "3PI-MW-Onm"; */
+"3PI-MW-Onm.text" = "Mobile";
+
+/* Class = "UILabel"; text = "Age"; ObjectID = "482-Zw-aUX"; */
+"482-Zw-aUX.text" = "Age";
+
+/* Class = "UILabel"; text = "Occupation"; ObjectID = "4bq-cn-t83"; */
+"4bq-cn-t83.text" = "Occupation";
+
+/* Class = "UILabel"; text = "Seven Stars Salon"; ObjectID = "4dg-cs-KHN"; */
+"4dg-cs-KHN.text" = "Seven Stars Salon";
+
+/* Class = "UILabel"; text = "Find out more"; ObjectID = "5ji-IL-vWI"; */
+"5ji-IL-vWI.text" = "Find out more";
+
+/* Class = "UILabel"; text = "Addresses"; ObjectID = "6qC-OC-9Zw"; */
+"6qC-OC-9Zw.text" = "Addresses";
+
+/* Class = "UILabel"; text = "Create an account"; ObjectID = "7J4-A7-jnQ"; */
+"7J4-A7-jnQ.text" = "Create an account";
+
+/* Class = "UILabel"; text = "VAT 15%"; ObjectID = "8Zj-sq-0vU"; */
+"8Zj-sq-0vU.text" = "VAT 15%";
+
+/* Class = "UILabel"; text = "Notifications"; ObjectID = "95C-XF-KHW"; */
+"95C-XF-KHW.text" = "Notifications";
+
+/* Class = "UILabel"; text = "7.4 Harrat Al-Bahar"; ObjectID = "97t-nA-A4T"; */
+"97t-nA-A4T.text" = "7.4 Harrat Al-Bahar";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "Acc-K2-DVJ"; */
+"Acc-K2-DVJ.normalTitle" = "Submit";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "AkD-RJ-olz"; */
+"AkD-RJ-olz.text" = "Date";
+
+/* Class = "UILabel"; text = "Reorder"; ObjectID = "Aob-Hw-goQ"; */
+"Aob-Hw-goQ.text" = "Reorder";
+
+/* Class = "UILabel"; text = "+966"; ObjectID = "Aw1-QT-Fd1"; */
+"Aw1-QT-Fd1.text" = "+966";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "BsG-dJ-e9T"; */
+"BsG-dJ-e9T.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "Select Category"; ObjectID = "CRZ-gj-8xv"; */
+"CRZ-gj-8xv.text" = "Select Category";
+
+/* Class = "UILabel"; text = "12-06-2022"; ObjectID = "CYT-VE-JcA"; */
+"CYT-VE-JcA.text" = "12-06-2022";
+
+/* Class = "UILabel"; text = "Hair Cut"; ObjectID = "CoF-cV-YVz"; */
+"CoF-cV-YVz.text" = "Hair Cut";
+
+/* Class = "UILabel"; text = "SAR 100"; ObjectID = "Cxx-w5-XWM"; */
+"Cxx-w5-XWM.text" = "SAR 100";
+
+/* Class = "UILabel"; text = "special offers"; ObjectID = "DH5-Kh-XZT"; */
+"DH5-Kh-XZT.text" = "special offers";
+
+/* Class = "UILabel"; text = "Barber Shops"; ObjectID = "Ddp-0x-Vq0"; */
+"Ddp-0x-Vq0.text" = "Barber Shops";
+
+/* Class = "UILabel"; text = "Beard Cut"; ObjectID = "DeP-sL-dxf"; */
+"DeP-sL-dxf.text" = "Beard Cut";
+
+/* Class = "UILabel"; text = "  10-15 min  "; ObjectID = "E9x-pN-44E"; */
+"E9x-pN-44E.text" = "  10-15 min  ";
+
+/* Class = "UILabel"; text = "Male"; ObjectID = "ECs-p0-Mho"; */
+"ECs-p0-Mho.text" = "Male";
+
+/* Class = "UILabel"; text = "Rate"; ObjectID = "F1Q-vu-48Q"; */
+"F1Q-vu-48Q.text" = "Rate";
+
+/* Class = "UILabel"; text = "Employees"; ObjectID = "F6e-2f-puZ"; */
+"F6e-2f-puZ.text" = "Employees";
+
+/* Class = "UIButton"; normalTitle = "Show all"; ObjectID = "FMa-Rd-gBx"; */
+"FMa-Rd-gBx.normalTitle" = "Show all";
+
+/* Class = "UILabel"; text = "My Salons"; ObjectID = "FOv-fh-rwj"; */
+"FOv-fh-rwj.text" = "My Salons";
+
+/* Class = "UILabel"; text = "Appointments"; ObjectID = "FgO-9C-U31"; */
+"FgO-9C-U31.text" = "Appointments";
+
+/* Class = "UIButton"; normalTitle = "Show all"; ObjectID = "FlS-DS-0u0"; */
+"FlS-DS-0u0.normalTitle" = "Show all";
+
+/* Class = "UILabel"; text = "Ahmed Ali "; ObjectID = "Gnd-oS-CkW"; */
+"Gnd-oS-CkW.text" = "Ahmed Ali ";
+
+/* Class = "UILabel"; text = "15 Sep 2022 - 12:54 PM"; ObjectID = "H5R-Hf-KJ8"; */
+"H5R-Hf-KJ8.text" = "15 Sep 2022 - 12:54 PM";
+
+/* Class = "UILabel"; text = "Appointment Details"; ObjectID = "HHD-Se-ZgJ"; */
+"HHD-Se-ZgJ.text" = "Appointment Details";
+
+/* Class = "UILabel"; text = "2526 Alkurnaysh Road, Abhur Al Janubiyah District"; ObjectID = "HKd-Mf-xM5"; */
+"HKd-Mf-xM5.text" = "2526 Alkurnaysh Road, Abhur Al Janubiyah District";
+
+/* Class = "UILabel"; text = "Sub Total"; ObjectID = "IhJ-Kz-p8b"; */
+"IhJ-Kz-p8b.text" = "Sub Total";
+
+/* Class = "UITextField"; placeholder = "Phone"; ObjectID = "Ivh-z3-dzJ"; */
+"Ivh-z3-dzJ.placeholder" = "Phone";
+
+/* Class = "UILabel"; text = "Profile"; ObjectID = "JC7-ys-VBq"; */
+"JC7-ys-VBq.text" = "Profile";
+
+/* Class = "UILabel"; text = "Hair Cut"; ObjectID = "K0Y-dF-fP5"; */
+"K0Y-dF-fP5.text" = "Hair Cut";
+
+/* Class = "UITextField"; placeholder = "Search for hair style, massage etc.."; ObjectID = "KZS-yB-7dd"; */
+"KZS-yB-7dd.placeholder" = "Search for hair style, massage etc..";
+
+/* Class = "UILabel"; text = "My Account"; ObjectID = "KeL-ef-gyY"; */
+"KeL-ef-gyY.text" = "My Account";
+
+/* Class = "UILabel"; text = "Beard Cut"; ObjectID = "LAD-tI-AGc"; */
+"LAD-tI-AGc.text" = "Beard Cut";
+
+/* Class = "UILabel"; text = "For Booking your Appointment on\n\"SYSTEM\" A confirmation message has beensent to your email and your Mobile number"; ObjectID = "LBG-pt-B3g"; */
+"LBG-pt-B3g.text" = "For Booking your Appointment on\n\"SYSTEM\" A confirmation message has beensent to your email and your Mobile number";
+
+/* Class = "UILabel"; text = "Select date & time"; ObjectID = "LdV-JZ-04N"; */
+"LdV-JZ-04N.text" = "Select date & time";
+
+/* Class = "UILabel"; text = "  10-15 min  "; ObjectID = "LlU-nJ-ecX"; */
+"LlU-nJ-ecX.text" = "  10-15 min  ";
+
+/* Class = "UILabel"; text = "I agree to Privacy policy"; ObjectID = "Ltz-f2-nLR"; */
+"Ltz-f2-nLR.text" = "I agree to Privacy policy";
+
+/* Class = "UILabel"; text = "Cutting"; ObjectID = "N0B-o9-QNX"; */
+"N0B-o9-QNX.text" = "Cutting";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "N96-mp-ec6"; */
+"N96-mp-ec6.text" = "Email";
+
+/* Class = "UILabel"; text = "Appointments"; ObjectID = "N9X-YP-W8r"; */
+"N9X-YP-W8r.text" = "Appointments";
+
+/* Class = "UILabel"; text = "Gender"; ObjectID = "NfD-cb-2j3"; */
+"NfD-cb-2j3.text" = "Gender";
+
+/* Class = "UILabel"; text = "Upcoming Appointments"; ObjectID = "Npa-rX-aWh"; */
+"Npa-rX-aWh.text" = "Upcoming Appointments";
+
+/* Class = "UILabel"; text = "7.4 Harrat Al-Bahar"; ObjectID = "OCp-n2-QWg"; */
+"OCp-n2-QWg.text" = "7.4 Harrat Al-Bahar";
+
+/* Class = "UILabel"; text = "09:30"; ObjectID = "OEa-14-4kT"; */
+"OEa-14-4kT.text" = "09:30";
+
+/* Class = "UILabel"; text = "09:30"; ObjectID = "ObZ-Ud-kbj"; */
+"ObZ-Ud-kbj.text" = "09:30";
+
+/* Class = "UITabBarItem"; title = "Appointment"; ObjectID = "Oeu-uE-xkm"; */
+"Oeu-uE-xkm.title" = "Appointment";
+
+/* Class = "UITextField"; placeholder = "Age"; ObjectID = "PCS-0c-8xE"; */
+"PCS-0c-8xE.placeholder" = "Age";
+
+/* Class = "UILabel"; text = "7.4 Harrat Al-Bahar"; ObjectID = "RMq-be-oeb"; */
+"RMq-be-oeb.text" = "7.4 Harrat Al-Bahar";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "RZM-YR-jlh"; */
+"RZM-YR-jlh.text" = "Settings";
+
+/* Class = "UILabel"; text = "SAR 155.99"; ObjectID = "RfK-1W-Ikx"; */
+"RfK-1W-Ikx.text" = "SAR 155.99";
+
+/* Class = "UIButton"; normalTitle = "Create account"; ObjectID = "RtZ-Io-a8X"; */
+"RtZ-Io-a8X.normalTitle" = "Create account";
+
+/* Class = "UILabel"; text = "SAR 45.99"; ObjectID = "Rwd-SK-rU5"; */
+"Rwd-SK-rU5.text" = "SAR 45.99";
+
+/* Class = "UILabel"; text = "hairdresser"; ObjectID = "SPn-Wz-Osl"; */
+"SPn-Wz-Osl.text" = "hairdresser";
+
+/* Class = "UILabel"; text = "Barber Name"; ObjectID = "SUf-6s-aO1"; */
+"SUf-6s-aO1.text" = "Barber Name";
+
+/* Class = "UILabel"; text = "Barber Name"; ObjectID = "T8g-g9-gdJ"; */
+"T8g-g9-gdJ.text" = "Barber Name";
+
+/* Class = "UILabel"; text = "Services"; ObjectID = "TOJ-S5-bcN"; */
+"TOJ-S5-bcN.text" = "Services";
+
+/* Class = "UILabel"; text = "Profile"; ObjectID = "USe-zR-5aM"; */
+"USe-zR-5aM.text" = "Profile";
+
+/* Class = "UILabel"; text = "Male"; ObjectID = "UcE-HH-bhv"; */
+"UcE-HH-bhv.text" = "Male";
+
+/* Class = "UILabel"; text = "Sub Total"; ObjectID = "VRV-tk-j2Q"; */
+"VRV-tk-j2Q.text" = "Sub Total";
+
+/* Class = "UILabel"; text = "Full name"; ObjectID = "WQb-Ha-SU0"; */
+"WQb-Ha-SU0.text" = "Full name";
+
+/* Class = "UILabel"; text = "Male"; ObjectID = "WiF-px-JfH"; */
+"WiF-px-JfH.text" = "Male";
+
+/* Class = "UILabel"; text = "4.7"; ObjectID = "YEO-BD-lw1"; */
+"YEO-BD-lw1.text" = "4.7";
+
+/* Class = "UIButton"; normalTitle = "Reschedule"; ObjectID = "YSu-g2-IF0"; */
+"YSu-g2-IF0.normalTitle" = "Reschedule";
+
+/* Class = "UILabel"; text = "Duration"; ObjectID = "Ydh-DZ-1bt"; */
+"Ydh-DZ-1bt.text" = "Duration";
+
+/* Class = "UITextField"; placeholder = "Phone number"; ObjectID = "YjU-BL-cXq"; */
+"YjU-BL-cXq.placeholder" = "Phone number";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "Z1I-oG-wzb"; */
+"Z1I-oG-wzb.normalTitle" = "Login";
+
+/* Class = "UITextField"; placeholder = "Nationality"; ObjectID = "Z42-Q7-a8h"; */
+"Z42-Q7-a8h.placeholder" = "Nationality";
+
+/* Class = "UILabel"; text = "Use ID or email"; ObjectID = "ZHI-5g-9tx"; */
+"ZHI-5g-9tx.text" = "Use ID or email";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "ZWG-fx-moz"; */
+"ZWG-fx-moz.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "4.7"; ObjectID = "ZbB-7o-jTZ"; */
+"ZbB-7o-jTZ.text" = "4.7";
+
+/* Class = "UIButton"; normalTitle = "Book By Stylist"; ObjectID = "Zbo-RA-NyT"; */
+"Zbo-RA-NyT.normalTitle" = "Book By Stylist";
+
+/* Class = "UILabel"; text = "Cutting"; ObjectID = "ZiD-6y-cKb"; */
+"ZiD-6y-cKb.text" = "Cutting";
+
+/* Class = "UILabel"; text = "00:30"; ObjectID = "Zl2-5r-xyH"; */
+"Zl2-5r-xyH.text" = "00:30";
+
+/* Class = "UILabel"; text = "Thank You!"; ObjectID = "amW-bZ-JNF"; */
+"amW-bZ-JNF.text" = "Thank You!";
+
+/* Class = "UILabel"; text = "7.4 Harrat Al-Bahar"; ObjectID = "bIZ-1g-o12"; */
+"bIZ-1g-o12.text" = "7.4 Harrat Al-Bahar";
+
+/* Class = "UILabel"; text = "Duration"; ObjectID = "bxo-1X-42B"; */
+"bxo-1X-42B.text" = "Duration";
+
+/* Class = "UILabel"; text = "Client Name"; ObjectID = "bz2-CM-U3d"; */
+"bz2-CM-U3d.text" = "Client Name";
+
+/* Class = "UILabel"; text = "12-06-2022"; ObjectID = "cCJ-mE-0L5"; */
+"cCJ-mE-0L5.text" = "12-06-2022";
+
+/* Class = "UILabel"; text = "01:30 AM"; ObjectID = "cGM-IZ-ZBi"; */
+"cGM-IZ-ZBi.text" = "01:30 AM";
+
+/* Class = "UILabel"; text = "Beard Cut"; ObjectID = "cN1-EO-Bur"; */
+"cN1-EO-Bur.text" = "Beard Cut";
+
+/* Class = "UILabel"; text = "Client"; ObjectID = "cUW-o9-naB"; */
+"cUW-o9-naB.text" = "Client";
+
+/* Class = "UITextField"; placeholder = "Account Type"; ObjectID = "cpD-fp-2zK"; */
+"cpD-fp-2zK.placeholder" = "Account Type";
+
+/* Class = "UILabel"; text = "Seven Stars Salon"; ObjectID = "cpM-Pg-quD"; */
+"cpM-Pg-quD.text" = "Seven Stars Salon";
+
+/* Class = "UILabel"; text = "7.4 Harrat Al-Bahar"; ObjectID = "dAa-CN-3Na"; */
+"dAa-CN-3Na.text" = "7.4 Harrat Al-Bahar";
+
+/* Class = "UILabel"; text = "Top 10 Salons"; ObjectID = "daH-zi-8Zl"; */
+"daH-zi-8Zl.text" = "Top 10 Salons";
+
+/* Class = "UILabel"; text = "All The Barbers"; ObjectID = "dbg-AT-dqM"; */
+"dbg-AT-dqM.text" = "All The Barbers";
+
+/* Class = "UILabel"; text = "  10 SAR oFF - Today Only  "; ObjectID = "e4R-kW-lEz"; */
+"e4R-kW-lEz.text" = "  10 SAR oFF - Today Only  ";
+
+/* Class = "UILabel"; text = "Seven Stars Salon"; ObjectID = "f1e-1z-LRi"; */
+"f1e-1z-LRi.text" = "Seven Stars Salon";
+
+/* Class = "UILabel"; text = "Add to Basket -"; ObjectID = "f93-yy-ZE2"; */
+"f93-yy-ZE2.text" = "Add to Basket -";
+
+/* Class = "UIButton"; normalTitle = "Checkout"; ObjectID = "fJk-gT-14G"; */
+"fJk-gT-14G.normalTitle" = "Checkout";
+
+/* Class = "UILabel"; text = "4.7"; ObjectID = "fOF-ku-ZXO"; */
+"fOF-ku-ZXO.text" = "4.7";
+
+/* Class = "UILabel"; text = "4.7"; ObjectID = "fYq-7p-90M"; */
+"fYq-7p-90M.text" = "4.7";
+
+/* Class = "UILabel"; text = "Nationality"; ObjectID = "fef-QE-h2f"; */
+"fef-QE-h2f.text" = "Nationality";
+
+/* Class = "UILabel"; text = "  10 SAR oFF - Today Only  "; ObjectID = "gFg-a3-HzK"; */
+"gFg-a3-HzK.text" = "  10 SAR oFF - Today Only  ";
+
+/* Class = "UILabel"; text = "05x-xXXX-XXX"; ObjectID = "gqa-i2-Ool"; */
+"gqa-i2-Ool.text" = "05x-xXXX-XXX";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "hS0-vf-JQc"; */
+"hS0-vf-JQc.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "Female"; ObjectID = "hcQ-UK-8kQ"; */
+"hcQ-UK-8kQ.text" = "Female";
+
+/* Class = "UILabel"; text = "SAR 100"; ObjectID = "hfc-zb-6UW"; */
+"hfc-zb-6UW.text" = "SAR 100";
+
+/* Class = "UIButton"; normalTitle = "Show all"; ObjectID = "hsF-g8-vc3"; */
+"hsF-g8-vc3.normalTitle" = "Show all";
+
+/* Class = "UILabel"; text = "Time"; ObjectID = "i4q-gY-xPE"; */
+"i4q-gY-xPE.text" = "Time";
+
+/* Class = "UILabel"; text = "7.4 Harrat Al-Bahar"; ObjectID = "iYj-aU-kWu"; */
+"iYj-aU-kWu.text" = "7.4 Harrat Al-Bahar";
+
+/* Class = "UILabel"; text = "Available Time"; ObjectID = "iqn-24-E7k"; */
+"iqn-24-E7k.text" = "Available Time";
+
+/* Class = "UILabel"; text = "2"; ObjectID = "irv-57-d3E"; */
+"irv-57-d3E.text" = "2";
+
+/* Class = "UILabel"; text = "by our passion for great tasting food. It is the vital ingredient in everything..."; ObjectID = "j2w-My-pWe"; */
+"j2w-My-pWe.text" = "by our passion for great tasting food. It is the vital ingredient in everything...";
+
+/* Class = "UITextField"; placeholder = "Branch Assigned"; ObjectID = "joA-g2-Q99"; */
+"joA-g2-Q99.placeholder" = "Branch Assigned";
+
+/* Class = "UILabel"; text = "4.7"; ObjectID = "jrC-Ue-7C3"; */
+"jrC-Ue-7C3.text" = "4.7";
+
+/* Class = "UILabel"; text = "Add to Basket -"; ObjectID = "jwG-kI-q5P"; */
+"jwG-kI-q5P.text" = "Add to Basket -";
+
+/* Class = "UILabel"; text = "4.7"; ObjectID = "msk-ev-fgu"; */
+"msk-ev-fgu.text" = "4.7";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "mwY-q1-2kd"; */
+"mwY-q1-2kd.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "nOQ-Jb-z6Y"; */
+"nOQ-Jb-z6Y.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "Language"; ObjectID = "o0E-7L-oXS"; */
+"o0E-7L-oXS.text" = "Language";
+
+/* Class = "UILabel"; text = "Hair Cut"; ObjectID = "o6o-DV-cbH"; */
+"o6o-DV-cbH.text" = "Hair Cut";
+
+/* Class = "UILabel"; text = "05x-xXXX-XXX"; ObjectID = "o9c-1t-iXZ"; */
+"o9c-1t-iXZ.text" = "05x-xXXX-XXX";
+
+/* Class = "UILabel"; text = "Wallet"; ObjectID = "oHb-Fi-tML"; */
+"oHb-Fi-tML.text" = "Wallet";
+
+/* Class = "UILabel"; text = "Ahmed A"; ObjectID = "oT4-Uq-DIb"; */
+"oT4-Uq-DIb.text" = "Ahmed A";
+
+/* Class = "UILabel"; text = "Employees"; ObjectID = "ojT-pd-J13"; */
+"ojT-pd-J13.text" = "Employees";
+
+/* Class = "UILabel"; text = "Thank You!"; ObjectID = "pYB-RA-Oii"; */
+"pYB-RA-Oii.text" = "Thank You!";
+
+/* Class = "UIButton"; normalTitle = "Book By Category"; ObjectID = "q3g-K6-70w"; */
+"q3g-K6-70w.normalTitle" = "Book By Category";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "q7Y-ZM-SVq"; */
+"q7Y-ZM-SVq.text" = "Password";
+
+/* Class = "UILabel"; text = "Seven Stars Salon"; ObjectID = "qF5-fI-mwG"; */
+"qF5-fI-mwG.text" = "Seven Stars Salon";
+
+/* Class = "UILabel"; text = "Select your gender"; ObjectID = "qaI-iV-QIf"; */
+"qaI-iV-QIf.text" = "Select your gender";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "qg1-DS-30D"; */
+"qg1-DS-30D.text" = "Email";
+
+/* Class = "UILabel"; text = "Barber Shops"; ObjectID = "qxD-vz-3cH"; */
+"qxD-vz-3cH.text" = "Barber Shops";
+
+/* Class = "UILabel"; text = "Ahmed A"; ObjectID = "rGa-ZF-lY2"; */
+"rGa-ZF-lY2.text" = "Ahmed A";
+
+/* Class = "UILabel"; text = "Phone number"; ObjectID = "rSd-qz-wV3"; */
+"rSd-qz-wV3.text" = "Phone number";
+
+/* Class = "UILabel"; text = "Ahmed Ali"; ObjectID = "tlL-wp-lKY"; */
+"tlL-wp-lKY.text" = "Ahmed Ali";
+
+/* Class = "UITextField"; placeholder = "Full name"; ObjectID = "u3n-j9-tV5"; */
+"u3n-j9-tV5.placeholder" = "Full name";
+
+/* Class = "UILabel"; text = "+966 587-4471"; ObjectID = "uFv-Zg-09x"; */
+"uFv-Zg-09x.text" = "+966 587-4471";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "ufe-og-GIV"; */
+"ufe-og-GIV.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "Get hair cut for SAR 100"; ObjectID = "vP7-Dm-2YJ"; */
+"vP7-Dm-2YJ.text" = "Get hair cut for SAR 100";
+
+/* Class = "UILabel"; text = "Stylers Recommendation"; ObjectID = "vn9-f7-afM"; */
+"vn9-f7-afM.text" = "Stylers Recommendation";
+
+/* Class = "UILabel"; text = "Order Total"; ObjectID = "w51-ph-pj7"; */
+"w51-ph-pj7.text" = "Order Total";
+
+/* Class = "UILabel"; text = "Ahmed Ali "; ObjectID = "wJm-L7-WJM"; */
+"wJm-L7-WJM.text" = "Ahmed Ali ";
+
+/* Class = "UILabel"; text = "Order History"; ObjectID = "wVD-NH-5mr"; */
+"wVD-NH-5mr.text" = "Order History";
+
+/* Class = "UILabel"; text = "Services"; ObjectID = "wrT-Fm-sSb"; */
+"wrT-Fm-sSb.text" = "Services";
+
+/* Class = "UILabel"; text = "Seven Stars Salon"; ObjectID = "xaS-wg-7eS"; */
+"xaS-wg-7eS.text" = "Seven Stars Salon";
+
+/* Class = "UIButton"; normalTitle = "Back to services"; ObjectID = "xlH-ZO-Q6K"; */
+"xlH-ZO-Q6K.normalTitle" = "Back to services";
+
+/* Class = "UILabel"; text = "Quwaizah, Jeddah 22352, Saudi Arabia"; ObjectID = "xoR-s0-Ifw"; */
+"xoR-s0-Ifw.text" = "Quwaizah, Jeddah 22352, Saudi Arabia";
+
+/* Class = "UILabel"; text = "4.7"; ObjectID = "xzI-oS-CmP"; */
+"xzI-oS-CmP.text" = "4.7";
+
+/* Class = "UILabel"; text = "Rate"; ObjectID = "yfp-Tj-8eg"; */
+"yfp-Tj-8eg.text" = "Rate";
+
+/* Class = "UIButton"; normalTitle = "Show all"; ObjectID = "yuP-qk-hvR"; */
+"yuP-qk-hvR.normalTitle" = "Show all";
+
+/* Class = "UILabel"; text = "Order Total"; ObjectID = "z2f-BW-rpA"; */
+"z2f-BW-rpA.text" = "Order Total";
+
+/* Class = "UILabel"; text = "by our passion for great tasting food. It is the vital ingredient in everything...by our passion for great tasting food. It is the vital ingredient in everything..."; ObjectID = "zED-l6-Cle"; */
+"zED-l6-Cle.text" = "by our passion for great tasting food. It is the vital ingredient in everything...by our passion for great tasting food. It is the vital ingredient in everything...";
+
+/* Class = "UILabel"; text = "Login"; ObjectID = "zEp-UK-2Ca"; */
+"zEp-UK-2Ca.text" = "Login";
+
+/* Class = "UIButton"; normalTitle = "Okay"; ObjectID = "zcb-Ew-MJS"; */
+"zcb-Ew-MJS.normalTitle" = "Okay";

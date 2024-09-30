@@ -1,0 +1,210 @@
+/*
+  Localizable.strings
+  StylezUser
+
+  Created by Ajith Mohan on 22/08/23.
+  
+*/
+ 
+"enter_email" = "يرجى ادخال البريد الالكتروني";
+"enter_passwrd" = "يرجى ادخال الرقم السري";
+"enter_phone" = "يرجى ادخال رقم الهاتف";
+"no_data" = "لم يتم العثور على البيانات";
+"select_service" = "يرجى اختيار الخدمة";
+"select_employee" = "يرجى اختيار الموظف";
+"service_added" = "تمت اضافة الخدمة الى السلة";
+"place_order" = "متابعة عملية الشراء";
+"checkout" = "استمر الى الدفع";
+"go_to_location" = "اذهب الى الموقع";
+"cancel_appopint" = "هل تريد الغاء الموعد ؟";
+"yes" = "نعم";
+"no" = "لا";
+"profile_updated" = "تم تحديث الملف الشخصي ";
+"ok" = "نعم";
+"use_camera" = "استخدم الكاميرا";
+"use_gallery" = "استخدام الصور";
+"cancel" = "الغاء";
+"delete_address" = "هل ترغب بحذف العنوان?";
+"delete_card" = "هل ترغب بحذف البطاقة؟";
+"home" = "الرئيسية";
+"appointment" = "مواعيدي";
+"profile" = "الملف الشخصي";
+"cart" = "السلة";
+"top_saloons" = "افضل 10 صالونات";
+"show_all" = "اظهر الكل";
+"all_barber" = "جميع الصالونات";
+"re_order" = "اعادة الطلب";
+"my_salons" = "صالوني";
+"book_category" = "الفئات";
+"book_stylist" = "الحلاقين";
+"search_hair" = "ابحث عن صالون , حلاق او خدمة الخ ...";
+"select_category" = "اختر الفئة";
+"stylist" = "الحلاقين";
+"search" = "البحث";
+"services" = "الخدمات";
+"special_offer" = "العروض الخاصة";
+"employee" = "الموظفين";
+"rate" = "السعر";
+"duration" = "المدة";
+"book_now" = "احجز الان";
+"add_basket" = "اضف الى السلة";
+"basket" = "السلة";
+"sub_total" = "المجموع الكلي";
+"order_total" = "مجموع الطلبات";
+"select_date" = "اختر التاريخ و الوقت";
+"available_time" = "الاوقات المتاحة ";
+"payment" = "الدفع";
+"discount" = "الخصم";
+"enter_promo" = "ادخل الرمز الترويجي";
+"apply" = "طبق";
+"select_card" = "اختر بطاقة الائتمان";
+"use_new_card" = "استخدم بطاقة جديدة";
+"upcoming_appoint" = "المواعيد القادمة";
+"appoint_details" = "تفاصيل الموعد";
+"date" = "التاريخ";
+"time" = "الوقت";
+"rescedule" = "تأكيد";
+"rescedule_appoint" = "اعادة جدولة الموعد";
+"client" = "عميل";
+"my_account" = "حسابي";
+"settings" = "الاعدادات";
+"profile" = "الملف الشخصي";
+"wallet" = "المحفظة";
+"address" = "العناوين";
+"order_history" = "تاريخ الطلبات";
+"notifications" = "الاشعارات";
+"gender" = "الجنس";
+"language" = "اللغة";
+"sign_in" = "تسجيل الدخول";
+"sign_out" = "تسجيل الخروج";
+"female" = "انثى";
+ "male" = "ذكر";
+"update_profile" = "تحديث الملف الشخصي";
+"nationality" = "الجنسية";
+"age" = "العمر";
+"occupation" = "العمل (اختياري)";
+"wallet" = "المحفظة";
+"add_address" = "اضف العنوان";
+"search_address" = "ابحث عن العنوان";
+"update_address" = "حدث العنوان";
+"nick_name" = "اللقب";
+"history" = "التاريخ";
+ "active" = "فعال";
+"cancelled" = "ملغي";
+"attanded" = "تم الحضور";
+"resceduled" = "تمت اعادة الجدولة";
+"active" = "فعال";
+"enter_phone" = "ادخل رقم الهاتف";
+"update_phone" = "حدث رقم الهاتف";
+"enter_email" = "ادخل البريد الالكتروني";
+"update_email" = "حدث البريد الاكتروني";
+"update" = "حفظ التغييرات";
+"login" = "تسجيل الدخول";
+"email" = "البريد الالكتروني";
+"password" = "الرقم السري";
+"retrive_passwrd" = "استرجع كلمة المرور";
+"create_account" = "انشئ حساب ";
+"quick_login" = "تسجيل دخول سريع";
+"phone" = "رقم الهاتف";
+"email_login" = "تسجيل الدخول بالبريد الالكتروني";
+"full_name" = "الاسم الكامل";
+"agree_terms" = "اوافق على سياسة الخصوصية";
+"create_account" = "انشئ حساب ";
+"otp_verification" = "التحقق من انه انت";
+"check_phone" = "يرجى التحقق من هاتفك لقد ارسلنا رمز التحقق لمرة واحدة";
+"check_email" = "يرجى التحقق من البريد الالكتروني لقد ارسلنا رمز التحقق لمرة واحدة";
+"continue" = "استمر";
+"didnt_receive" = "لم تتلقى ؟";
+"resend" = "اعادة ارسال الرمز";
+"appointment_resceduled" = "تم اعادة جدولة الموعد بنجاح !";
+"for_booking"  = "شكرا لاختيارك Stylz لتلبية احتياجات موعدك. نحن واثقون من أنك ستكون سعيدا بخدماتنا";
+"thank_you" = "شكرا لك !";
+"back_service" = "العودة الى الخدمات";
+"selct_gender" = "اختر الجنس";
+"select_language" = "اختر اللغة";
+"pin_location" = "يرجى اختيار موقع التوصيل على الخريطة";
+"enter_nick" = "أدخل كنية";
+"enter_phone" = "ادخل رقم الهاتف";
+"enter_email" = "ادخل البريد الالكتروني";
+"code_copy" = "تم نسخ الرمز";
+"enter_name" = "ادخل الاسم";
+"enter_email" = "ادخل البريد الالكتروني";
+"enter_phone" = "ادخل رقم الهاتف";
+"enter_coutry" = "ادخل البلدة";
+"enter_password" = "ادخل الرقم السري";
+"enter_valid" = "ادخل بريد الكتروني صالح";
+"accept_privacy" = "يرجى قبول سياسة الخصوصية";
+"address_added" = "تمت اضافة العنوان";
+"success" = "نجاح";
+"valid_otp" = "ادخل رمز تحقق صالح";
+"enter_pass" = "ادخل الرمز السري";
+"password_missmatch" = "الرقم السري غير مطابق";
+"password_updated" = "تم تحديث الرقم السري";
+"forgot_pass" = "نسيت الرقم السري";
+"submit" = "ادفع";
+"update_pass" = "تم تحديث الرقم السري";
+"confirm_password" = "اكد الرقم السرير";
+"crnt_location" = "الموقع الحالي";
+"select_location" = "اختر الموقع";
+"add_new" = "اضف جديد";
+"enable_location" = "فعل الموقع";
+"schedules" = "مواعيدي";
+"summary" = "ملخص";
+"submit_appointment" = "قدم موعدي";
+"done" = "منتهي";
+"delete_item" = "هل تريد حذف العنصر؟";
+"select_options" = "حدد الخيار";
+"book_appoint" = "احجز وادفع لاحقا";
+"book_15" = "احجز الان وادفع واحصل على خصم 15%";
+"paid" = "مدفوع";
+"un_paid" = "غير مدفوع";
+"no_branches" = "لم يتم العثور على الفروع";
+"select_gender" = "يرجى تحديد الجنس";
+"rescedule_appopint" = "هل تريد اعادة جدولة الموعد";
+"old_password" = "كلمة المرور الحالية";
+"new_password" = "الرقم السري الجديد";
+"enter_current" = "يرجى ادخال الرقم السري الحالي ";
+"change_password" = "تغيير الرقم السري";
+"removed_mySalons" = "تمت الازالة من صالوناتي ";
+"add_mySallons" = "تمت الاضافة الى صالوناتي ";
+"no_time" = "لا توجد فترة رمنية متاحة , يرجى اختيار فترة زمنية اخرى";
+"policy" = "سياسة الخصوصية";
+"close" = "اغلق";
+"no_cart" = "السلة الخاصة بك فارغة !";
+"login_continue" = "يرجى تسجيل الدخول لوضع علامة على المفضلة";
+"pay_apple" = "  دفع";
+"pay_card" = "  بطاقة الائتمان";
+"seelct_payment" = "اختر طريقة الدفع";
+"vat" = "ضريبة القيمة المضافة 15%";
+"no_appoint" = "لا توجد لديك مواعيد";
+"choose_date" = "اختر الوقت و التاريخ";
+"sar" = "ريال";
+"name" = "الإسم";
+"appointment_cancel" = "تم الغاء الموعد بنجاح";
+"cart_contains" = "السلة تحتوي على حجز خدمات من صالون آخر";
+"do_continue" = "هل تريد الغاء طلب الحجز والمتابعة ؟";
+"one" = "ادفع";
+"two" = "احجز";
+
+
+
+"confirm" = "يتأكد";
+"cancel" = "يلغي";
+"YouSure" = "هل أنت متأكد؟";
+"WantToDelete" = "هل أنت متأكد أنك تريد حذف الحساب؟";
+"DeletedMsg" = "تم حذف الحساب بنجاح";
+"DeleteAccount" = "حذف الحساب";
+"DeleteAccount2" = "حذف الحساب؟";
+
+
+
+"book_15" = "احجز وادفع الآن مع";
+"discount" = "تخفيض";
+
+
+"promoAplied" = "تم تطبيق الرمز الترويجي بالفعل";
+
+
+
+
+"PhoneIsRequired" = "الرجاء إدخال رقم هاتفك.\nلإبقائك على علم بمواعيدك، نطلب رقم هاتفك.";

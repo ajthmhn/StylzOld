@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "CE17A77A-6318-47DF-8848-3CF2AF075C60"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "83FB2596-B756-4F81-909C-BCB33475E19D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StylezUser/VC/Product/SalonsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "83FB2596-B756-4F81-909C-BCB33475E19D - 151af772496049d4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StylezUser.SalonsViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "StylezUser"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ajithmohan/Desktop/projects/StylezUserApp/StylezUser/VC/Product/SalonsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "420">
+               </Location>
+               <Location
+                  uuid = "83FB2596-B756-4F81-909C-BCB33475E19D - 151af772496049d4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StylezUser.SalonsViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "StylezUser"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ajithmohan/Desktop/projects/StylezUserApp/StylezUser/VC/Product/SalonsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "360">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

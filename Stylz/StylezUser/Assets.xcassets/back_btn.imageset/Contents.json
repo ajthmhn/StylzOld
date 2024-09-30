@@ -1,0 +1,111 @@
+{
+  "images" : [
+    {
+      "filename" : "back_btn 1.png",
+      "idiom" : "universal",
+      "language-direction" : "left-to-right",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "back_btn@3x 4.png",
+      "idiom" : "universal",
+      "language-direction" : "right-to-left",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "back_btn@2x 1.png",
+      "idiom" : "universal",
+      "language-direction" : "left-to-right",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "back_btn@2x 3.png",
+      "idiom" : "universal",
+      "language-direction" : "right-to-left",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "back_btn@3x 1.png",
+      "idiom" : "universal",
+      "language-direction" : "left-to-right",
+      "scale" : "3x"
+    },
+    {
+      "filename" : "back_btn@3x 5.png",
+      "idiom" : "universal",
+      "language-direction" : "right-to-left",
+      "scale" : "3x"
+    },
+    {
+      "filename" : "back_btn 2.png",
+      "idiom" : "universal",
+      "language-direction" : "right-to-left",
+      "locale" : "ar",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "back_btn@2x 2.png",
+      "idiom" : "universal",
+      "language-direction" : "right-to-left",
+      "locale" : "ar",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "back_btn@3x 2.png",
+      "idiom" : "universal",
+      "language-direction" : "right-to-left",
+      "locale" : "ar",
+      "scale" : "3x"
+    },
+    {
+      "filename" : "back_btn.png",
+      "idiom" : "universal",
+      "language-direction" : "left-to-right",
+      "locale" : "en",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "back_btn@3x 6.png",
+      "idiom" : "universal",
+      "language-direction" : "right-to-left",
+      "locale" : "en",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "back_btn@2x.png",
+      "idiom" : "universal",
+      "language-direction" : "left-to-right",
+      "locale" : "en",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "back_btn@2x 4.png",
+      "idiom" : "universal",
+      "language-direction" : "right-to-left",
+      "locale" : "en",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "back_btn@3x.png",
+      "idiom" : "universal",
+      "language-direction" : "left-to-right",
+      "locale" : "en",
+      "scale" : "3x"
+    },
+    {
+      "filename" : "back_btn@3x 7.png",
+      "idiom" : "universal",
+      "language-direction" : "right-to-left",
+      "locale" : "en",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "localizable" : true,
+    "template-rendering-intent" : "template"
+  }
+}

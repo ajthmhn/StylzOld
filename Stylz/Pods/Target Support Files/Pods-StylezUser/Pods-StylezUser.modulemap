@@ -1,0 +1,6 @@
+framework module Pods_StylezUser {
+  umbrella header "Pods-StylezUser-umbrella.h"
+
+  export *
+  module * { export * }
+}
